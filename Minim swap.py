@@ -1,4 +1,4 @@
-#python program to implement minimum no of swaps to sort an arry
+#python program to implement minimum no of swaps to sort an arry when no is in (1-n)
 def MinSwap(arr,n):
     arrpos=[*enumerate(arr)]
     vis=[False for i in range(n)]
