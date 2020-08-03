@@ -1,0 +1,10 @@
+BAB
+Case #1: Y
+BBB
+Case #2: N
+AABBA
+Case #3: Y
+BAAABAA
+Case #4: N
+BBBAABAAAAB
+Case #5: Y
