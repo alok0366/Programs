@@ -8,6 +8,7 @@ Original file is located at
 """
 
 # dictionary -> string(32chars) and jsonObject(16KB)
+#nothing
 
 import os
 import sys
